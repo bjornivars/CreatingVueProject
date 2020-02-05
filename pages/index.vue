@@ -6,7 +6,7 @@
         nuxtAppTest
       </h1>
       <h2 class="subtitle">
-        Testing nuxt project setup
+        Check this out
       </h2>
       <div class="links">
         <a
