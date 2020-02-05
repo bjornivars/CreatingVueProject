@@ -6,7 +6,7 @@
         nuxtAppTest
       </h1>
       <h2 class="subtitle">
-        Check this out, Ole er den kuleste
+        Check this out Cameron! Shit it live
       </h2>
       <div class="links">
         <a
